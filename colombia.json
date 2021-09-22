@@ -1,0 +1,4604 @@
+[
+    {
+        "name": "Amazonas",
+        "code": "AMA",
+        "cities": [
+            {
+                "name": "Leticia",
+                "dane": "91001000"
+            },
+            {
+                "name": "Puerto Nariño",
+                "dane": "91540000"
+            }
+        ]
+    },
+    {
+        "name": "Antioquia",
+        "code": "ANT",
+        "cities": [
+            {
+                "name": "Abejorral",
+                "dane": "05002000"
+            },
+            {
+                "name": "Abriaquí",
+                "dane": "05004000"
+            },
+            {
+                "name": "Alejandría",
+                "dane": "05021000"
+            },
+            {
+                "name": "Amagá",
+                "dane": "05030000"
+            },
+            {
+                "name": "Amalfi",
+                "dane": "05031000"
+            },
+            {
+                "name": "Andes",
+                "dane": "05034000"
+            },
+            {
+                "name": "Angelopolis",
+                "dane": "05036000"
+            },
+            {
+                "name": "Angostura",
+                "dane": "5038000"
+            },
+            {
+                "name": "Anorí",
+                "dane": "05040000"
+            },
+            {
+                "name": "Santa Fé de Antioquia",
+                "dane": "05042000"
+            },
+            {
+                "name": "Anzá",
+                "dane": "05044000"
+            },
+            {
+                "name": "Apartadó",
+                "dane": "05045000"
+            },
+            {
+                "name": "Arboletes",
+                "dane": "05051000"
+            },
+            {
+                "name": "Argelia",
+                "dane": "05055000"
+            },
+            {
+                "name": "Armenia",
+                "dane": "05059000"
+            },
+            {
+                "name": "Barbosa",
+                "dane": "05079000"
+            },
+            {
+                "name": "Bello",
+                "dane": "05088000"
+            },
+            {
+                "name": "Belmira",
+                "dane": "05086000"
+            },
+            {
+                "name": "Betania",
+                "dane": "05091000"
+            },
+            {
+                "name": "Betulia",
+                "dane": "05093000"
+            },
+            {
+                "name": "Ciudad Bolívar",
+                "dane": "05101000"
+            },
+            {
+                "name": "Briceño",
+                "dane": "05107000"
+            },
+            {
+                "name": "Buriticá",
+                "dane": "05113000"
+            },
+            {
+                "name": "Cáceres",
+                "dane": "05120000"
+            },
+            {
+                "name": "Caicedo",
+                "dane": "05125000"
+            },
+            {
+                "name": "Caldas",
+                "dane": "05129000"
+            },
+            {
+                "name": "Campamento",
+                "dane": "05134000"
+            },
+            {
+                "name": "Cañasgordas",
+                "dane": "05138000"
+            },
+            {
+                "name": "Caracolí",
+                "dane": "05142000"
+            },
+            {
+                "name": "Caramanta",
+                "dane": "05145000"
+            },
+            {
+                "name": "Carepa",
+                "dane": "05147000"
+            },
+            {
+                "name": "El Carmen de Viboral",
+                "dane": "05148000"
+            },
+            {
+                "name": "Carolina",
+                "dane": "05150000"
+            },
+            {
+                "name": "Caucasia",
+                "dane": "05154000"
+            },
+            {
+                "name": "Chigorodó",
+                "dane": "05172000"
+            },
+            {
+                "name": "Cisneros",
+                "dane": "05190000"
+            },
+            {
+                "name": "Cocorná",
+                "dane": "05197000"
+            },
+            {
+                "name": "Concepción",
+                "dane": "05206000"
+            },
+            {
+                "name": "Concordia",
+                "dane": "05209000"
+            },
+            {
+                "name": "Copacabana",
+                "dane": "05212000"
+            },
+            {
+                "name": "Dabeiba",
+                "dane": "05234000"
+            },
+            {
+                "name": "Don Matias",
+                "dane": "05237000"
+            },
+            {
+                "name": "Ebejico",
+                "dane": "05240000"
+            },
+            {
+                "name": "El Bagre",
+                "dane": "05250000"
+            },
+            {
+                "name": "Entrerrios",
+                "dane": "05264000"
+            },
+            {
+                "name": "Envigado",
+                "dane": "05266000"
+            },
+            {
+                "name": "Fredonia",
+                "dane": "05282000"
+            },
+            {
+                "name": "Frontino",
+                "dane": "05284000"
+            },
+            {
+                "name": "Giraldo",
+                "dane": "05306000"
+            },
+            {
+                "name": "Girardota",
+                "dane": "05308000"
+            },
+            {
+                "name": "Gómez Plata",
+                "dane": "05310000"
+            },
+            {
+                "name": "Granada",
+                "dane": "05313000"
+            },
+            {
+                "name": "Guadalupe",
+                "dane": "05315000"
+            },
+            {
+                "name": "Guarne",
+                "dane": "05318000"
+            },
+            {
+                "name": "Guatapé",
+                "dane": "05321000"
+            },
+            {
+                "name": "Heliconia",
+                "dane": "05347000"
+            },
+            {
+                "name": "Hispania",
+                "dane": "05353000"
+            },
+            {
+                "name": "Itaguí",
+                "dane": "05360000"
+            },
+            {
+                "name": "Ituango",
+                "dane": "05361000"
+            },
+            {
+                "name": "Jardin",
+                "dane": "05364000"
+            },
+            {
+                "name": "Jericó",
+                "dane": "05368000"
+            },
+            {
+                "name": "La Ceja",
+                "dane": "05376000"
+            },
+            {
+                "name": "La Estrella",
+                "dane": "05380000"
+            },
+            {
+                "name": "La Pintada",
+                "dane": "05390000"
+            },
+            {
+                "name": "La Unión",
+                "dane": "05400000"
+            },
+            {
+                "name": "Liborina",
+                "dane": "05411000"
+            },
+            {
+                "name": "Maceo",
+                "dane": "05425000"
+            },
+            {
+                "name": "Marinilla",
+                "dane": "05440000"
+            },
+            {
+                "name": "Medellín",
+                "dane": "05001000"
+            },
+            {
+                "name": "Montebello",
+                "dane": "05467000"
+            },
+            {
+                "name": "Murindó",
+                "dane": "05475000"
+            },
+            {
+                "name": "Mutatá",
+                "dane": "05480000"
+            },
+            {
+                "name": "Nariño",
+                "dane": "05483000"
+            },
+            {
+                "name": "Nechí",
+                "dane": "05495000"
+            },
+            {
+                "name": "Necoclí",
+                "dane": "5490000"
+            },
+            {
+                "name": "Olaya",
+                "dane": "05501000"
+            },
+            {
+                "name": "El Peñol",
+                "dane": "05541000"
+            },
+            {
+                "name": "Peque",
+                "dane": "05543000"
+            },
+            {
+                "name": "Pueblorrico",
+                "dane": "05576000"
+            },
+            {
+                "name": "Puerto Berrío",
+                "dane": "05579000"
+            },
+            {
+                "name": "Puerto Nare",
+                "dane": "05585000"
+            },
+            {
+                "name": "Puerto Triunfo",
+                "dane": "05591000"
+            },
+            {
+                "name": "Remedios",
+                "dane": "05604000"
+            },
+            {
+                "name": "El Retiro",
+                "dane": "05607000"
+            },
+            {
+                "name": "Rionegro",
+                "dane": "05615000"
+            },
+            {
+                "name": "Sabanalarga",
+                "dane": "05628000"
+            },
+            {
+                "name": "Sabaneta",
+                "dane": "05631000"
+            },
+            {
+                "name": "Salgar",
+                "dane": "05642000"
+            },
+            {
+                "name": "San Andrés de Cuerquia",
+                "dane": "05647000"
+            },
+            {
+                "name": "San Carlos",
+                "dane": "05649000"
+            },
+            {
+                "name": "San Francisco",
+                "dane": "05652000"
+            },
+            {
+                "name": "San Jerónimo",
+                "dane": "05656000"
+            },
+            {
+                "name": "San José de la Montaña",
+                "dane": "05658000"
+            },
+            {
+                "name": "San Juan de Urabá",
+                "dane": "05659000"
+            },
+            {
+                "name": "San Luis",
+                "dane": "05660000"
+            },
+            {
+                "name": "San Pedro de los milagros",
+                "dane": "05664000"
+            },
+            {
+                "name": "San Pedro de Uraba",
+                "dane": "05665000"
+            },
+            {
+                "name": "San Rafael",
+                "dane": "San Rafael"
+            },
+            {
+                "name": "San Roque",
+                "dane": "05670000"
+            },
+            {
+                "name": "San Vicente",
+                "dane": "5674000"
+            },
+            {
+                "name": "Santa Bárbara",
+                "dane": "05679000"
+            },
+            {
+                "name": "Santa Rosa de Osos",
+                "dane": "05686000"
+            },
+            {
+                "name": "Santo Domingo",
+                "dane": "05690000"
+            },
+            {
+                "name": "El Santuario",
+                "dane": "5697000"
+            },
+            {
+                "name": "Segovia",
+                "dane": "05736000"
+            },
+            {
+                "name": "Sonsón",
+                "dane": "05756000"
+            },
+            {
+                "name": "Sopetrán",
+                "dane": "05761000"
+            },
+            {
+                "name": "Támesis",
+                "dane": "05789000"
+            },
+            {
+                "name": "Tarazá",
+                "dane": "05790000"
+            },
+            {
+                "name": "Tarso",
+                "dane": "05792000"
+            },
+            {
+                "name": "Titiribí",
+                "dane": "05809000"
+            },
+            {
+                "name": "Toledo",
+                "dane": "05819000"
+            },
+            {
+                "name": "Turbo",
+                "dane": "05837000"
+            },
+            {
+                "name": "Uramita",
+                "dane": "05842000"
+            },
+            {
+                "name": "Urrao",
+                "dane": "05847000"
+            },
+            {
+                "name": "Valdivia",
+                "dane": "05854000"
+            },
+            {
+                "name": "Valparaiso",
+                "dane": "05856000"
+            },
+            {
+                "name": "Vegachí",
+                "dane": "5858000"
+            },
+            {
+                "name": "Venecia",
+                "dane": "05861000"
+            },
+            {
+                "name": "Vigía del Fuerte",
+                "dane": "05873000"
+            },
+            {
+                "name": "Yalí",
+                "dane": "05885000"
+            },
+            {
+                "name": "Yarumal",
+                "dane": "05887000"
+            },
+            {
+                "name": "Yolombó",
+                "dane": "05890000"
+            },
+            {
+                "name": "Yondo",
+                "dane": "05893000"
+            },
+            {
+                "name": "Zaragoza",
+                "dane": "05895000"
+            }                   
+        ]
+    },
+    {
+        "name": "Arauca",
+        "code": "ARA",
+        "cities": [
+            {
+                "name": "Arauca",
+                "dane": "81001000"
+            },
+            {
+                "name": "Arauquita",
+                "dane": "81065000"
+            },
+            {
+                "name": "Cravo Norte",
+                "dane": "81220000"
+            },
+            {
+                "name": "Fortul",
+                "dane": "81300000"
+            },
+            {
+                "name": "Puerto Rondón",
+                "dane": "81591000"
+            },
+            {
+                "name": "Saravena",
+                "dane": "81736000"
+            },
+            {
+                "name": "Tame",
+                "dane": "81794000"
+            }
+        ]
+    },
+    {
+        "name": "Atlantico",
+        "code": "ATL",
+        "cities": [
+            {
+               "name": "Baranoa",
+                "dane": "08078000"
+            },
+            {
+               "name": "Barranquilla",
+                "dane": "08001000"
+            },
+            {
+               "name": "Campo de la Cruz",
+                "dane": "08137000"
+            },
+            {
+               "name": "Candelaria",
+                "dane": "08141000"
+            },
+            {
+               "name": "Galapa",
+                "dane": "08296000"
+            },
+            {
+               "name": "Juan de Acosta",
+                "dane": "08372000"
+            },
+            {
+               "name": "Luruaco",
+                "dane": "08421000"
+            },
+            {
+               "name": "Malambo",
+                "dane": "08433000"
+            },
+            {
+               "name": "Manatí",
+                "dane": "08436000"
+            },
+            {
+               "name": "Palmar de Varela",
+                "dane": "08520000"
+            },
+            {
+               "name": "Piojo",
+                "dane": "08549000"
+            },
+            {
+               "name": "Polonuevo",
+                "dane": "08558000"
+            },
+            {
+               "name": "Ponedera",
+                "dane": "08560000"
+            },
+            {
+               "name": "Puerto Colombia",
+                "dane": "08573000"
+            },
+            {
+               "name": "Repelón",
+                "dane": "08606000"
+            },
+            {
+               "name": "Sabanagrande",
+                "dane": "08634000"
+            },
+            {
+               "name": "Sabanalarga",
+                "dane": "08638000"
+            },
+            {
+               "name": "Santa Lucía",
+                "dane": "08675000"
+            },
+            {
+               "name": "Santo Tomás",
+                "dane": "08685000"
+            },
+            {
+               "name": "Soledad",
+                "dane": "08758000"
+            },
+            {
+               "name": "Suan",
+                "dane": "08770000"
+            },
+            {
+               "name": "Tubará",
+                "dane": "08832000"
+            },
+            {
+               "name": "Usiacurí",
+                "dane": "08849000"
+            }
+        ]
+    },
+    {
+        "name": "Bolívar",
+        "code": "BOL",
+        "cities": [
+            {
+               "name": "Achí",
+               "dane": "13006000"
+            },
+            {
+               "name": "Altos del Rosario",
+               "dane": "13030000"
+            },
+            {
+               "name": "Arenal",
+               "dane": "13042000"
+            },
+            {
+               "name": "Arjona",
+               "dane": "13052000"
+            },
+            {
+               "name": "Arroyohondo",
+               "dane": "13062000"
+            },
+            {
+               "name": "Barranco de Loba",
+               "dane": "13074000"
+            },
+            {
+               "name": "Calamar",
+               "dane": "13140000"
+            },
+            {
+               "name": "Cantagallo",
+               "dane": "13160000"
+            },
+            {
+               "name": "Cartagena",
+               "dane": "13001000"
+            },
+            {
+               "name": "Cicuco",
+               "dane": "13188000"
+            },
+            {
+               "name": "Clemencia",
+               "dane": "13222000"
+            },
+            {
+               "name": "Córdoba",
+               "dane": "13212000"
+            },
+            {
+               "name": "El Cármen de Bolivar",
+               "dane": "13244000"
+            },
+            {
+               "name": "El Guamo",
+               "dane": "13248000"
+            },
+            {
+               "name": "El Peñón",
+               "dane": "13268000"
+            },
+            {
+               "name": "Hatillo de Loba",
+               "dane": "13300000"
+            },
+            {
+               "name": "Magangué",
+               "dane": "13430000"
+            },
+            {
+               "name": "Mahates",
+               "dane": "13433000"
+            },
+            {
+               "name": "Margarita",
+               "dane": "13440000"
+            },
+            {
+               "name": "María la Baja",
+               "dane": "13442000"
+            },
+            {
+               "name": "Mompós",
+               "dane": "13468000"
+            },
+            {
+               "name": "Montecristo",
+               "dane": "13458000"
+            },
+            {
+               "name": "Morales",
+               "dane": "13473000"
+            },
+            {
+               "name": "Pinillos",
+               "dane": "13549000"
+            },
+            {
+               "name": "Regidor",
+               "dane": "13580000"
+            },
+            {
+               "name": "Rio Viejo",
+               "dane": "13600000"
+            },
+            {
+               "name": "San Cristobal",
+               "dane": "13620000"
+            },
+            {
+               "name": "San Estanislao",
+               "dane": "13647000"
+            },
+            {
+               "name": "San Fernando",
+               "dane": "13650000"
+            },
+            {
+               "name": "San Jacinto",
+               "dane": "13654000"
+            },
+            {
+               "name": "San Jacinto del Cauca",
+               "dane": "13655000"
+            },
+            {
+               "name": "San Juan Nepomuceno",
+               "dane": "13657000"
+            },
+            {
+               "name": "San Martín de Loba",
+               "dane": "13667000"
+            },
+            {
+               "name": "San Pablo",
+               "dane": "13670000"
+            },
+            {
+               "name": "Santa Catalina",
+               "dane": "13673000"
+            },
+            {
+               "name": "Santa Rosa",
+               "dane": "13683000"
+            },
+            {
+               "name": "Santa Rosa del Sur",
+               "dane": "13688000"
+            },
+            {
+               "name": "Simití",
+               "dane": "13744000"
+            },
+            {
+               "name": "Soplaviento",
+               "dane": "13760000"
+            },
+            {
+               "name": "Talaigua Nuevo",
+               "dane": "13780000"
+            },
+            {
+               "name": "Tiquisio",
+               "dane": "13810000"
+            },
+            {
+               "name": "Turbaco",
+               "dane": "13836000"
+            },
+            {
+               "name": "Turbana",
+               "dane": "13838000"
+            },
+            {
+               "name": "Villanueva",
+               "dane": "13873000"
+            },
+            {
+               "name": "Zambrano",
+               "dane": "13894000"
+            }
+        ]
+    },
+    {
+        "name": "Boyacá",
+        "code": "BOY",
+        "cities": [
+            {
+               "name": "Almeida",
+               "dane": "15022000"
+            },
+            {
+               "name": "Aquitania",
+               "dane": "15047000"
+            },
+            {
+               "name": "Arcabuco",
+               "dane": "15051000"
+            },
+            {
+               "name": "Belén",
+               "dane": "15087000"
+            },
+            {
+               "name": "Berbeo",
+               "dane": "15090000"
+            },
+            {
+               "name": "Beteitiva",
+               "dane": "15092000"
+            },
+            {
+               "name": "Boavita",
+               "dane": "15097000"
+            },
+            {
+               "name": "Boyacá",
+               "dane": "15104000"
+            },
+            {
+               "name": "Briceño",
+               "dane": "15106000"
+            },
+            {
+               "name": "Buenavista",
+               "dane": "15109000"
+            },
+            {
+               "name": "Busbanza",
+               "dane": "15114000"
+            },
+            {
+               "name": "Caldas",
+               "dane": "15131000"
+            },
+            {
+               "name": "Campohermoso",
+               "dane": "15135000"
+            },
+            {
+               "name": "Cerinza",
+               "dane": "15162000"
+            },
+            {
+               "name": "Chinavita",
+               "dane": "15172000"
+            },
+            {
+               "name": "Chiquinquirá",
+               "dane": "15176000"
+            },
+            {
+               "name": "Chíquiza",
+               "dane": "15232000"
+            },
+            {
+               "name": "Chiscas",
+               "dane": "15180000"
+            },
+            {
+               "name": "Chita",
+               "dane": "15183000"
+            },
+            {
+               "name": "Chitaraque",
+               "dane": "15185000"
+            },
+            {
+               "name": "Chivata",
+               "dane": "15187000"
+            },
+            {
+               "name": "Chivor",
+               "dane": "15236000"
+            },
+            {
+               "name": "Ciénega",
+               "dane": "15189000"
+            },
+            {
+               "name": "Cómbita",
+               "dane": "15204000"
+            },
+            {
+               "name": "Coper",
+               "dane": "15212000"
+            },
+            {
+               "name": "Corrales",
+               "dane": "15215000"
+            },
+            {
+               "name": "Covarachía",
+               "dane": "15218000"
+            },
+            {
+               "name": "Cubará",
+               "dane": "15223000"
+            },
+            {
+               "name": "Cucaita",
+               "dane": "15224000"
+            },
+            {
+               "name": "Cuitiva",
+               "dane": "15226000"
+            },
+            {
+               "name": "Duitama",
+               "dane": "15238000"
+            },
+            {
+               "name": "El Cocuy",
+               "dane": "15244000"
+            },
+            {
+               "name": "El Espino",
+               "dane": "15248000"
+            },
+            {
+               "name": "Firavitoba",
+               "dane": "15272000"
+            },
+            {
+               "name": "Floresta",
+               "dane": "15276000"
+            },
+            {
+               "name": "Gachantiva",
+               "dane": "15293000"
+            },
+            {
+               "name": "Gámeza",
+               "dane": "15296000"
+            },
+            {
+               "name": "Garagoa",
+               "dane": "15299000"
+            },
+            {
+               "name": "Guacamayas",
+               "dane": "15317000"
+            },
+            {
+               "name": "Guateque",
+               "dane": "15322000"
+            },
+            {
+               "name": "Guayata",
+               "dane": "15325000"
+            },
+            {
+               "name": "Güicán",
+               "dane": "15332000"
+            },
+            {
+               "name": "Iza",
+               "dane": "15362000"
+            },
+            {
+               "name": "Jenesano",
+               "dane": "15367000"
+            },
+            {
+               "name": "Jericó",
+               "dane": "15368000"
+            },
+            {
+               "name": "La Capilla",
+               "dane": "15380000"
+            },
+            {
+               "name": "La Uvita",
+               "dane": "15403000"
+            },
+            {
+               "name": "La Victoria",
+               "dane": "15401000"
+            },
+            {
+               "name": "Labranzagrande",
+               "dane": "15377000"
+            },
+            {
+               "name": "Villa de Leyva",
+               "dane": "15407000"
+            },
+            {
+               "name": "Macanal",
+               "dane": "15425000"
+            },
+            {
+               "name": "Maripí",
+               "dane": "15442000"
+            },
+            {
+               "name": "Miraflores",
+               "dane": "15455000"
+            },
+            {
+               "name": "Mongua",
+               "dane": "15464000"
+            },
+            {
+               "name": "Monguí",
+               "dane": "15466000"
+            },
+            {
+               "name": "Moniquirá",
+               "dane": "15469000"
+            },
+            {
+               "name": "Motavita",
+               "dane": "15476000"
+            },
+            {
+               "name": "Muzo",
+               "dane": "15480000"
+            },
+            {
+               "name": "Nobsa",
+               "dane": "15491000"
+            },
+            {
+               "name": "Nuevo Colón",
+               "dane": "15494000"
+            },
+            {
+               "name": "Oicatá",
+               "dane": "15500000"
+            },
+            {
+               "name": "Otanche",
+               "dane": "15507000"
+            },
+            {
+               "name": "Pachavita",
+               "dane": "15511000"
+            },
+            {
+               "name": "Páez",
+               "dane": "15514000"
+            },
+            {
+               "name": "Paipa",
+               "dane": "15516000"
+            },
+            {
+               "name": "Pajarito",
+               "dane": "15518000"
+            },
+            {
+               "name": "Panqueba",
+               "dane": "15522000"
+            },
+            {
+               "name": "Pauna",
+               "dane": "15531000"
+            },
+            {
+               "name": "Paya",
+               "dane": "15533000"
+            },
+            {
+               "name": "Paz de Rio",
+               "dane": "15537000"
+            },
+            {
+               "name": "Pesca",
+               "dane": "15542000"
+            },
+            {
+               "name": "Pisba",
+               "dane": "15550000"
+            },
+            {
+               "name": "Puerto Boyacá",
+               "dane": "15572000"
+            },
+            {
+               "name": "Quípama",
+               "dane": "15580000"
+            },
+            {
+               "name": "Ramiriquí",
+               "dane": "15599000"
+            },
+            {
+               "name": "Ráquira",
+               "dane": "15600000"
+            },
+            {
+               "name": "Rondon",
+               "dane": "15621000"
+            },
+            {
+               "name": "Saboyá",
+               "dane": "15632000"
+            },
+            {
+               "name": "Sáchica",
+               "dane": "15638000"
+            },
+            {
+               "name": "Samacá",
+               "dane": "15646000"
+            },
+            {
+               "name": "San Eduardo",
+               "dane": "15660000"
+            },
+            {
+               "name": "San José de Pare",
+               "dane": "15664000"
+            },
+            {
+               "name": "San Luis de Gaceno",
+               "dane": "15667000"
+            },
+            {
+               "name": "San Mateo",
+               "dane": "15673000"
+            },
+            {
+               "name": "San Miguel de Sema",
+               "dane": "15676000"
+            },
+            {
+               "name": "San Pablo de Borbur",
+               "dane": "15681000"
+            },
+            {
+               "name": "Santa María",
+               "dane": "15690000"
+            },
+            {
+               "name": "Santa Rosa de Viterbo",
+               "dane": "15693000"
+            },
+            {
+               "name": "Santa Sofía",
+               "dane": "15696000"
+            },
+            {
+               "name": "Santana",
+               "dane": "15686000"
+            },
+            {
+               "name": "Sativanorte",
+               "dane": "15720000"
+            },
+            {
+               "name": "Sativasur",
+               "dane": "15723000"
+            },
+            {
+               "name": "Siachoque",
+               "dane": "15740000"
+            },
+            {
+               "name": "Soatá",
+               "dane": "15753000"
+            },
+            {
+               "name": "Socha",
+               "dane": "15757000"
+            },
+            {
+               "name": "Socotá",
+               "dane": "15755000"
+            },
+            {
+               "name": "Sogamoso",
+               "dane": "15759000"
+            },
+            {
+               "name": "Somondoco",
+               "dane": "15761000"
+            },
+            {
+               "name": "Sora",
+               "dane": "15762000"
+            },
+            {
+               "name": "Soracá",
+               "dane": "15764000"
+            },
+            {
+               "name": "Sotaquirá",
+               "dane": "15763000"
+            },
+            {
+               "name": "Susacón",
+               "dane": "15774000"
+            },
+            {
+               "name": "Sutamarchán",
+               "dane": "15776000"
+            },
+            {
+               "name": "Sutatenza",
+               "dane": "15778000"
+            },
+            {
+               "name": "Tasco",
+               "dane": "15790000"
+            },
+            {
+               "name": "Tenza",
+               "dane": "15798000"
+            },
+            {
+               "name": "Tibaná",
+               "dane": "15804000"
+            },
+            {
+               "name": "Tibasosa",
+               "dane": "15806000"
+            },
+            {
+               "name": "Tinjaca",
+               "dane": "15808000"
+            },
+            {
+               "name": "Tipacoque",
+               "dane": "15810000"
+            },
+            {
+               "name": "Toca",
+               "dane": "15814000"
+            },
+            {
+               "name": "Togüí ",
+               "dane": "15816000"
+            },
+            {
+               "name": "Topaga",
+               "dane": "15820000"
+            },
+            {
+               "name": "Tota",
+               "dane": "15822000"
+            },
+            {
+               "name": "Tunja",
+               "dane": "15001000"
+            },
+            {
+               "name": "Tununguá",
+               "dane": "15832000"
+            },
+            {
+               "name": "Turmequé",
+               "dane": "15835000"
+            },
+            {
+               "name": "Tuta",
+               "dane": "15837000"
+            },
+            {
+               "name": "Tutazá",
+               "dane": "15839000"
+            },
+            {
+               "name": "Umbita",
+               "dane": "15842000"
+            },
+            {
+               "name": "Ventaquemada",
+               "dane": "15861000"
+            },
+            {
+               "name": "Viracachá",
+               "dane": "15879000"
+            },
+            {
+               "name": "Zetaquirá",
+               "dane": "15897000"
+            }
+        ]
+    },
+    {
+        "name": "Caldas",
+        "code": "CAL",
+        "cities": [
+            {
+               "name": "Aguadas",
+               "dane": "17013000"
+            },
+            {
+               "name": "Anserma",
+               "dane": "17042000"
+            },
+            {
+               "name": "Aranzazu",
+               "dane": "17050000"
+            },
+            {
+               "name": "Belalcázar",
+               "dane": "17088000"
+            },
+            {
+               "name": "Chinchiná",
+               "dane": "17174000"
+            },
+            {
+               "name": "Filadelfia",
+               "dane": "17272000"
+            },
+            {
+               "name": "La Dorada",
+               "dane": "17380000"
+            },
+            {
+               "name": "La Merced",
+               "dane": "17388000"
+            },
+            {
+               "name": "Manizales",
+               "dane": "17001000"
+            },
+            {
+               "name": "Manzanares",
+               "dane": "17433000"
+            },
+            {
+               "name": "Marmato",
+               "dane": "17442000"
+            },
+            {
+               "name": "Marquetalia",
+               "dane": "17444000"
+            },
+            {
+               "name": "Marulanda",
+               "dane": "17446000"
+            },
+            {
+               "name": "Neira",
+               "dane": "17486000"
+            },
+            {
+               "name": "Norcasia",
+               "dane": "17495000"
+            },
+            {
+               "name": "Pácora",
+               "dane": "17513000"
+            },
+            {
+               "name": "Palestina",
+               "dane": "17524000"
+            },
+            {
+               "name": "Pensilvania",
+               "dane": "17541000"
+            },
+            {
+               "name": "Riosucio",
+               "dane": "17614000"
+            },
+            {
+               "name": "Risaralda",
+               "dane": "17616000"
+            },
+            {
+               "name": "Salamina",
+               "dane": "17653000"
+            },
+            {
+               "name": "Samaná",
+               "dane": "17662000"
+            },
+            {
+               "name": "San José",
+               "dane": "17665000"
+            },
+            {
+               "name": "Supía",
+               "dane": "17777000"
+            },
+            {
+               "name": "Victoria",
+               "dane": "17867000"
+            },
+            {
+               "name": "Villamaría",
+               "dane": "17873000"
+            },
+            {
+               "name": "Viterbo",
+               "dane": "17877000"
+            }
+        ]
+    },
+    {
+        "name": "Caquetá",
+        "code": "CAQ",
+        "cities": [
+            {
+               "name": "Albania",
+               "dane": "18029000"
+            },
+            {
+               "name": "Belén de Los Andaquíes",
+               "dane": "18094000"
+            },
+            {
+               "name": "Cartagena del Chairá",
+               "dane": "18150000"
+            },
+            {
+               "name": "Curillo",
+               "dane": "18205000"
+            },
+            {
+               "name": "El Doncello",
+               "dane": "18247000"
+            },
+            {
+               "name": "El Paujil",
+               "dane": "18256000"
+            },
+            {
+               "name": "Florencia",
+               "dane": "18001000"
+            },
+            {
+               "name": "La Montañita",
+               "dane": "18410000"
+            },
+            {
+               "name": "Milán",
+               "dane": "18460000"
+            },
+            {
+               "name": "Morelia",
+               "dane": "18479000"
+            },
+            {
+               "name": "Puerto Rico",
+               "dane": "18592000"
+            },
+            {
+               "name": "San José de Fragua",
+               "dane": "18610000"
+            },
+            {
+               "name": "San Vicente del Caguán",
+               "dane": "18753000"
+            },
+            {
+               "name": "Solano",
+               "dane": "18756000"
+            },
+            {
+               "name": "Solita",
+               "dane": "18785000"
+            },
+            {
+               "name": "Valparaíso",
+               "dane": "18860000"
+            }
+        ]
+    },
+    {
+        "name": "Casanare",
+        "code": "CAS",
+        "cities": [
+            {
+               "name": "Aguazul",
+               "dane": "85010000"
+            },
+            {
+               "name": "Chameza",
+               "dane": "85015000"
+            },
+            {
+               "name": "Hato Corozal",
+               "dane": "85125000"
+            },
+            {
+               "name": "La Salina",
+               "dane": "85136000"
+            },
+            {
+               "name": "Maní",
+               "dane": "85139000"
+            },
+            {
+               "name": "Monterrey",
+               "dane": "85162000"
+            },
+            {
+               "name": "Nunchía",
+               "dane": "85225000"
+            },
+            {
+               "name": "Orocué",
+               "dane": "85230000"
+            },
+            {
+               "name": "Paz de Ariporo",
+               "dane": "85250000"
+            },
+            {
+               "name": "Pore",
+               "dane": "85263000"
+            },
+            {
+               "name": "Recetor",
+               "dane": "85279000"
+            },
+            {
+               "name": "Sabanalarga",
+               "dane": "85300000"
+            },
+            {
+               "name": "Sácama",
+               "dane": "85315000"
+            },
+            {
+               "name": "San Luis de Palenque",
+               "dane": "85325000"
+            },
+            {
+               "name": "Támara",
+               "dane": "85400000"
+            },
+            {
+               "name": "Tauramena",
+               "dane": "85410000"
+            },
+            {
+               "name": "Trinidad",
+               "dane": "85430000"
+            },
+            {
+               "name": "Villanueva",
+               "dane": "85440000"
+            },
+            {
+               "name": "Yopal",
+               "dane": "85001000"
+            }
+        ]
+    },
+    {
+        "name": "Cauca",
+        "code": "CAU",
+        "cities": [
+            {
+               "name": "Almaguer",
+               "dane": "19022000"
+            },
+            {
+               "name": "Argelia",
+               "dane": "19050000"
+            },
+            {
+               "name": "Balboa",
+               "dane": "19075000"
+            },
+            {
+               "name": "Bolívar",
+               "dane": "19100000"
+            },
+            {
+               "name": "Buenos Aires",
+               "dane": "19110000"
+            },
+            {
+               "name": "Cajibío",
+               "dane": "19130000"
+            },
+            {
+               "name": "Caldono",
+               "dane": "19137000"
+            },
+            {
+               "name": "Caloto",
+               "dane": "19142000"
+            },
+            {
+               "name": "Corinto",
+               "dane": "19212000"
+            },
+            {
+               "name": "El Tambo",
+               "dane": "19256000"
+            },
+            {
+               "name": "Florencia",
+               "dane": "19290000"
+            },
+            {
+               "name": "Guapi",
+               "dane": "19318000"
+            },
+            {
+               "name": "Inzá",
+               "dane": "19355000"
+            },
+            {
+               "name": "Jambaló",
+               "dane": "19364000"
+            },
+            {
+               "name": "La Sierra",
+               "dane": "19392000"
+            },
+            {
+               "name": "La Vega",
+               "dane": "19397000"
+            },
+            {
+               "name": "López De Micay",
+               "dane": "19418000"
+            },
+            {
+               "name": "Mercaderes",
+               "dane": "19450000"
+            },
+            {
+               "name": "Miranda",
+               "dane": "19455000"
+            },
+            {
+               "name": "Morales",
+               "dane": "19473000"
+            },
+            {
+               "name": "Padilla",
+               "dane": "19513000"
+            },
+            {
+               "name": "Páez (Belalcázar)",
+               "dane": "19517000"
+            },
+            {
+               "name": "Piamonte",
+               "dane": "19533000"
+            },
+            {
+               "name": "Piendamó",
+               "dane": "19548000"
+            },
+            {
+               "name": "Popayán",
+               "dane": "19001000"
+            },
+            {
+               "name": "Puerto Tejada",
+               "dane": "19573000"
+            },
+            {
+               "name": "Puracé (Coconuco)",
+               "dane": "19585000"
+            },
+            {
+               "name": "Rosas",
+               "dane": "19622000"
+            },
+            {
+               "name": "San Sebastián",
+               "dane": "19693000"
+            },
+            {
+               "name": "Santa Rosa",
+               "dane": "19701000"
+            },
+            {
+               "name": "Santander de Quilichao",
+               "dane": "19698000"
+            },
+            {
+               "name": "Silvia",
+               "dane": "19743000"
+            },
+            {
+               "name": "Sotará",
+               "dane": "19760000"
+            },
+            {
+               "name": "Suárez",
+               "dane": "19780000"
+            },
+            {
+               "name": "Sucre",
+               "dane": "19785000"
+            },
+            {
+               "name": "Timbío",
+               "dane": "19807000"
+            },
+            {
+               "name": "Timbiquí",
+               "dane": "19809000"
+            },
+            {
+               "name": "Toribio",
+               "dane": "19821000"
+            },
+            {
+               "name": "Totoró",
+               "dane": "19824000"
+            },
+            {
+               "name": "Villa Rica",
+               "dane": "19845000"
+            }
+        ]
+    },
+    {
+        "name": "Cesar",
+        "code": "CES",
+        "cities": [
+            {
+               "name": "Aguachica",
+               "dane": "20011000"
+            },
+            {
+               "name": "Agustín Codazzi",
+               "dane": "20013000"
+            },
+            {
+               "name": "Astrea",
+               "dane": "20032000"
+            },
+            {
+               "name": "Becerril",
+               "dane": "20045000"
+            },
+            {
+               "name": "Bosconia",
+               "dane": "20060000"
+            },
+            {
+               "name": "Chimichagua",
+               "dane": "20175000"
+            },
+            {
+               "name": "Chiriguaná",
+               "dane": "20178000"
+            },
+            {
+               "name": "Curumaní",
+               "dane": "20228000"
+            },
+            {
+               "name": "El Copey",
+               "dane": "20238000"
+            },
+            {
+               "name": "El Paso",
+               "dane": "20250000"
+            },
+            {
+               "name": "Gamarra",
+               "dane": "20295000"
+            },
+            {
+               "name": "González",
+               "dane": "20310000"
+            },
+            {
+               "name": "La Gloria",
+               "dane": "20383000"
+            },
+            {
+               "name": "La Jagua de Ibirico",
+               "dane": "20400000"
+            },
+            {
+               "name": "Manaure",
+               "dane": "20443000"
+            },
+            {
+               "name": "Pailitas",
+               "dane": "20517000"
+            },
+            {
+               "name": "Pelaya",
+               "dane": "20550000"
+            },
+            {
+               "name": "Pueblo Bello",
+               "dane": "20570000"
+            },
+            {
+               "name": "Río de Oro",
+               "dane": "20614000"
+            },
+            {
+               "name": "La Paz",
+               "dane": "20621000"
+            },
+            {
+               "name": "San Alberto",
+               "dane": "20710000"
+            },
+            {
+               "name": "San Diego",
+               "dane": "20750000"
+            },
+            {
+               "name": "San Martín",
+               "dane": "20770000"
+            },
+            {
+               "name": "Tamalameque",
+               "dane": "20787000"
+            },
+            {
+               "name": "Valledupar",
+               "dane": "20001000"
+            }
+        ]
+    },
+    {
+        "name": "Chocó",
+        "code": "CHO",
+        "cities": [
+            {
+               "name": "Acandí",
+               "dane": "27006000"
+            },
+            {
+               "name": "Alto Baudó (Pie de Pató)",
+               "dane": "27025000"
+            },
+            {
+               "name": "Atrato",
+               "dane": "27050000"
+            },
+            {
+               "name": "Bagadó",
+               "dane": "27073000"
+            },
+            {
+               "name": "Bahia Solano",
+               "dane": "27075000"
+            },
+            {
+               "name": "Bajo Baudo",
+               "dane": "27077000"
+            },
+            {
+               "name": "Bojayá",
+               "dane": "27099000"
+            },
+            {
+               "name": "Canton de San Pablo",
+               "dane": "27135000"
+            },
+            {
+               "name": "Carmen del Darien",
+               "dane": "27150000"
+            },
+            {
+               "name": "Cértegui",
+               "dane": "27160000"
+            },
+            {
+               "name": "Condoto",
+               "dane": "27205000"
+            },
+            {
+               "name": "El Carmen de atrato",
+               "dane": "27245000"
+            },
+            {
+               "name": "Istmina",
+               "dane": "27361000"
+            },
+            {
+               "name": "Jurado",
+               "dane": "27372000"
+            },
+            {
+               "name": "El Litoral Del San Juan",
+               "dane": "27250000"
+            },
+            {
+               "name": "Lloró",
+               "dane": "27413000"
+            },
+            {
+               "name": "Medio Atrato",
+               "dane": "27425000"
+            },
+            {
+               "name": "Medio Baudó",
+               "dane": "27430000"
+            },
+            {
+               "name": "Medio San Juan",
+               "dane": "27450000"
+            },
+            {
+               "name": "Nóvita",
+               "dane": "27491000"
+            },
+            {
+               "name": "Nuquí",
+               "dane": "27495000"
+            },
+            {
+               "name": "Quibdó",
+               "dane": "27001000"
+            },
+            {
+               "name": "Río Iro",
+               "dane": "27580000"
+            },
+            {
+               "name": "Río Quito",
+               "dane": "27600000"
+            },
+            {
+               "name": "Riosucio",
+               "dane": "27615000"
+            },
+            {
+               "name": "San José del Palmar",
+               "dane": "27660000"
+            },
+            {
+               "name": "Sipí",
+               "dane": "27745000"
+            },
+            {
+               "name": "Tadó",
+               "dane": "27787000"
+            },
+            {
+               "name": "Unguía",
+               "dane": "27800000"
+            },
+            {
+               "name": "Unión Panamericana",
+               "dane": "27810000"
+            }
+        ]
+    },
+    {
+        "name": "Córdoba",
+        "code": "COR",
+        "cities": [
+            {
+               "name": "Ayapel",
+               "dane": "23068000"
+            },
+            {
+               "name": "Buenavista",
+               "dane": "23079000"
+            },
+            {
+               "name": "Canalete",
+               "dane": "23090000"
+            },
+            {
+               "name": "Cereté",
+               "dane": "23162000"
+            },
+            {
+               "name": "Chimá",
+               "dane": "23168000"
+            },
+            {
+               "name": "Chinú",
+               "dane": "23182000"
+            },
+            {
+               "name": "Ciénaga de Oro",
+               "dane": "23189000"
+            },
+            {
+               "name": "Cotorra",
+               "dane": "23300000"
+            },
+            {
+               "name": "La Apartada",
+               "dane": "23350000"
+            },
+            {
+               "name": "Lorica",
+               "dane": "23417000"
+            },
+            {
+               "name": "Los Córdobas",
+               "dane": "23419000"
+            },
+            {
+               "name": "Momil",
+               "dane": "23464000"
+            },
+            {
+               "name": "Moñitos",
+               "dane": "23500000"
+            },
+            {
+               "name": "Montelíbano",
+               "dane": "23466000"
+            },
+            {
+               "name": "Montería",
+               "dane": "23001000"
+            },
+            {
+               "name": "Planeta Rica",
+               "dane": "23555000"
+            },
+            {
+               "name": "Pueblo Nuevo",
+               "dane": "23570000"
+            },
+            {
+               "name": "Puerto Escondido",
+               "dane": "23574000"
+            },
+            {
+               "name": "Puerto Libertador",
+               "dane": "23580000"
+            },
+            {
+               "name": "Purísima",
+               "dane": "23586000"
+            },
+            {
+               "name": "Sahagún",
+               "dane": "23660000"
+            },
+            {
+               "name": "San Andrés de Sotavento",
+               "dane": "23670000"
+            },
+            {
+               "name": "San Antero",
+               "dane": "23672000"
+            },
+            {
+               "name": "San Bernardo del Viento",
+               "dane": "23675000"
+            },
+            {
+               "name": "San Carlos",
+               "dane": "23678000"
+            },
+            {
+               "name": "San Pelayo",
+               "dane": "23686000"
+            },
+            {
+               "name": "Tierralta",
+               "dane": "23807000"
+            },
+            {
+               "name": "Valencia",
+               "dane": "23855000"
+            },
+            {
+               "name": "San José de Uré",
+               "dane": "23682000"
+            }
+        ]
+    },
+    {
+        "name": "Cundinamarca",
+        "code": "CUN",
+        "cities": [
+            {
+               "name": "Bogotá D.C.",
+               "dane": "11001000"
+            },
+            {
+               "name": "Agua de Dios",
+               "dane": "25001000"
+            },
+            {
+               "name": "Albán",
+               "dane": "25019000"
+            },
+            {
+               "name": "Anapoima",
+               "dane": "25035000"
+            },
+            {
+               "name": "Anolaima",
+               "dane": "25040000"
+            },
+            {
+               "name": "Arbeláez",
+               "dane": "25053000"
+            },
+            {
+               "name": "Beltrán",
+               "dane": "25086000"
+            },
+            {
+               "name": "Bituima",
+               "dane": "25095000"
+            },
+            {
+               "name": "Bojacá",
+               "dane": "25099000"
+            },
+            {
+               "name": "Cabrera",
+               "dane": "25120000"
+            },
+            {
+               "name": "Cachipay",
+               "dane": "25123000"
+            },
+            {
+               "name": "Cajicá",
+               "dane": "25126000"
+            },
+            {
+               "name": "Caparrapi",
+               "dane": "25148000"
+            },
+            {
+               "name": "Cáqueza",
+               "dane": "25151000"
+            },
+            {
+               "name": "Carmen de Carupa",
+               "dane": "25154000"
+            },
+            {
+               "name": "Chaguaní",
+               "dane": "25168000"
+            },
+            {
+               "name": "Chía",
+               "dane": "25175000"
+            },
+            {
+               "name": "Chipaque",
+               "dane": "25178000"
+            },
+            {
+               "name": "Choachí",
+               "dane": "25181000"
+            },
+            {
+               "name": "Chocontá",
+               "dane": "25183000"
+            },
+            {
+               "name": "Cogua",
+               "dane": "25200000"
+            },
+            {
+               "name": "Cota",
+               "dane": "25214000"
+            },
+            {
+               "name": "Cucunubá",
+               "dane": "25224000"
+            },
+            {
+               "name": "El Colegio",
+               "dane": "25245000"
+            },
+            {
+               "name": "El Peñón",
+               "dane": "25258000"
+            },
+            {
+               "name": "El Rosal",
+               "dane": "25260000"
+            },
+            {
+               "name": "Facatativá",
+               "dane": "25269000"
+            },
+            {
+               "name": "Fómeque",
+               "dane": "25279000"
+            },
+            {
+               "name": "Fosca",
+               "dane": "25281000"
+            },
+            {
+               "name": "Funza",
+               "dane": "25286000"
+            },
+            {
+               "name": "Fúquene",
+               "dane": "25288000"
+            },
+            {
+               "name": "Fusagasugá",
+               "dane": "25290000"
+            },
+            {
+               "name": "Gachalá",
+               "dane": "25293000"
+            },
+            {
+               "name": "Gachancipá",
+               "dane": "25295000"
+            },
+            {
+               "name": "Gachetá",
+               "dane": "25297000"
+            },
+            {
+               "name": "Gama",
+               "dane": "25299000"
+            },
+            {
+               "name": "Girardot",
+               "dane": "25307000"
+            },
+            {
+               "name": "Granada",
+               "dane": "25312000"
+            },
+            {
+               "name": "Guachetá",
+               "dane": "25317000"
+            },
+            {
+               "name": "Guaduas",
+               "dane": "25320000"
+            },
+            {
+               "name": "Guasca",
+               "dane": "25322000"
+            },
+            {
+               "name": "Guataqui",
+               "dane": "25324000"
+            },
+            {
+               "name": "Guatavita",
+               "dane": "25326000"
+            },
+            {
+               "name": "Guayabal de Síquima",
+               "dane": "25328000"
+            },
+            {
+               "name": "Guayabetal",
+               "dane": "25335000"
+            },
+            {
+               "name": "Gutiérrez",
+               "dane": "25339000"
+            },
+            {
+               "name": "Jerusalén",
+               "dane": "25368000"
+            },
+            {
+               "name": "Junín",
+               "dane": "25372000"
+            },
+            {
+               "name": "La Calera",
+               "dane": "25377000"
+            },
+            {
+               "name": "La Mesa",
+               "dane": "25386000"
+            },
+            {
+               "name": "La Palma",
+               "dane": "25394000"
+            },
+            {
+               "name": "La Peña",
+               "dane": "25398000"
+            },
+            {
+               "name": "La Vega",
+               "dane": "25402000"
+            },
+            {
+               "name": "Lenguazaque",
+               "dane": "25407000"
+            },
+            {
+               "name": "Machetá",
+               "dane": "25426000"
+            },
+            {
+               "name": "Madrid",
+               "dane": "25430000"
+            },
+            {
+               "name": "Manta",
+               "dane": "25436000"
+            },
+            {
+               "name": "Medina",
+               "dane": "25438000"
+            },
+            {
+               "name": "Mosquera",
+               "dane": "25473000"
+            },
+            {
+               "name": "Nariño",
+               "dane": "25483000"
+            },
+            {
+               "name": "Nemocon",
+               "dane": "25486000"
+            },
+            {
+               "name": "Nilo",
+               "dane": "25488000"
+            },
+            {
+               "name": "Nimaima",
+               "dane": "25489000"
+            },
+            {
+               "name": "Nocaima",
+               "dane": "25491000"
+            },
+            {
+               "name": "Pacho",
+               "dane": "25513000"
+            },
+            {
+               "name": "Paime",
+               "dane": "25518000"
+            },
+            {
+               "name": "Pandi",
+               "dane": "25524000"
+            },
+            {
+               "name": "Paratebueno",
+               "dane": "25530000"
+            },
+            {
+               "name": "Pasca",
+               "dane": "25535000"
+            },
+            {
+               "name": "Puerto Salgar",
+               "dane": "25572000"
+            },
+            {
+               "name": "Pulí",
+               "dane": "25580000"
+            },
+            {
+               "name": "Quebradanegra",
+               "dane": "25592000"
+            },
+            {
+               "name": "Quetame",
+               "dane": "25594000"
+            },
+            {
+               "name": "Quipile",
+               "dane": "25596000"
+            },
+            {
+               "name": "Apulo",
+               "dane": "25599000"
+            },
+            {
+               "name": "Ricaurte",
+               "dane": "25612000"
+            },
+            {
+               "name": "San Antonio del Tequendama",
+               "dane": "25645000"
+            },
+            {
+               "name": "San Bernardo",
+               "dane": "25649000"
+            },
+            {
+               "name": "San Cayetano",
+               "dane": "25653000"
+            },
+            {
+               "name": "San Francisco",
+               "dane": "25658000"
+            },
+            {
+               "name": "San Juan de Río Seco",
+               "dane": "25662000"
+            },
+            {
+               "name": "Sasaima",
+               "dane": "25718000"
+            },
+            {
+               "name": "Sesquilé",
+               "dane": "25736000"
+            },
+            {
+               "name": "Sibaté",
+               "dane": "25740000"
+            },
+            {
+               "name": "Silvania",
+               "dane": "25743000"
+            },
+            {
+               "name": "Simijaca",
+               "dane": "25745000"
+            },
+            {
+               "name": "Soacha",
+               "dane": "25754000"
+            },
+            {
+               "name": "Sopó",
+               "dane": "25758000"
+            },
+            {
+               "name": "Subachoque",
+               "dane": "25769000"
+            },
+            {
+               "name": "Suesca",
+               "dane": "25772000"
+            },
+            {
+               "name": "Supatá",
+               "dane": "25777000"
+            },
+            {
+               "name": "Susa",
+               "dane": "25779000"
+            },
+            {
+               "name": "Sutatausa",
+               "dane": "25781000"
+            },
+            {
+               "name": "Tabio",
+               "dane": "25785000"
+            },
+            {
+               "name": "Tausa",
+               "dane": "25793000"
+            },
+            {
+               "name": "Tena",
+               "dane": "25797000"
+            },
+            {
+               "name": "Tenjo",
+               "dane": "25799000"
+            },
+            {
+               "name": "Tibacuy",
+               "dane": "25805000"
+            },
+            {
+               "name": "Tibirita",
+               "dane": "25807000"
+            },
+            {
+               "name": "Tocaima",
+               "dane": "25815000"
+            },
+            {
+               "name": "Tocancipá",
+               "dane": "25817000"
+            },
+            {
+               "name": "Topaipí",
+               "dane": "25823000"
+            },
+            {
+               "name": "Ubalá",
+               "dane": "25839000"
+            },
+            {
+               "name": "Ubaque",
+               "dane": "25841000"
+            },
+            {
+               "name": "Ubaté",
+               "dane": "25843000"
+            },
+            {
+               "name": "Une",
+               "dane": "25845000"
+            },
+            {
+               "name": "Útica",
+               "dane": "25851000"
+            },
+            {
+               "name": "Vergara",
+               "dane": "25862000"
+            },
+            {
+                "name": "Venecia",
+                "dane": "25506000"
+            },
+            {
+               "name": "Vianí",
+               "dane": "25867000"
+            },
+            {
+               "name": "Villagómez",
+               "dane": "25871000"
+            },
+            {
+               "name": "Villapinzón",
+               "dane": "25873000"
+            },
+            {
+               "name": "Villeta",
+               "dane": "25875000"
+            },
+            {
+               "name": "Viotá",
+               "dane": "25878000"
+            },
+            {
+               "name": "Yacopi",
+               "dane": "25885000"
+            },
+            {
+               "name": "Zipacón",
+               "dane": "25898000"
+            },
+            {
+               "name": "Zipaquirá",
+               "dane": "25899000"
+            }
+        ]
+    },
+    {
+        "name": "Guainía",
+        "code": "GUA",
+        "cities": [
+            {
+               "name": "Inírida",
+               "dane": "94001000"
+            }
+        ]
+    },
+    {
+        "name": "Guaviare",
+        "code": "GUV",
+        "cities": [
+            {
+               "name": "Calamar",
+               "dane": "95015000"
+            },
+            {
+               "name": "El Retorno",
+               "dane": "95025000"
+            },
+            {
+               "name": "Miraflores",
+               "dane": "95200000"
+            },
+            {
+               "name": "San José del Guaviare",
+               "dane": "95001000"
+            }
+        ]
+    },
+    {
+        "name": "Huila",
+        "code": "HUI",
+        "cities": [
+            {
+               "name": "Acevedo",
+               "dane": "41006000"
+            },
+            {
+               "name": "Agrado",
+               "dane": "41013000"
+            },
+            {
+               "name": "Aipe",
+               "dane": "41016000"
+            },
+            {
+               "name": "Algeciras",
+               "dane": "41020000"
+            },
+            {
+               "name": "Altamira",
+               "dane": "41026000"
+            },
+            {
+               "name": "Baraya",
+               "dane": "41078000"
+            },
+            {
+               "name": "Campoalegre",
+               "dane": "41132000"
+            },
+            {
+               "name": "Colombia",
+               "dane": "41206000"
+            },
+            {
+               "name": "Elías",
+               "dane": "41244000"
+            },
+            {
+               "name": "Garzón",
+               "dane": "41298000"
+            },
+            {
+               "name": "Gigante",
+               "dane": "41306000"
+            },
+            {
+               "name": "Guadalupe",
+               "dane": "41319000"
+            },
+            {
+               "name": "Hobo",
+               "dane": "41349000"
+            },
+            {
+               "name": "Iquira",
+               "dane": "41357000"
+            },
+            {
+               "name": "Isnos",
+               "dane": "41359000"
+            },
+            {
+               "name": "La Argentina",
+               "dane": "41378000"
+            },
+            {
+               "name": "La Plata",
+               "dane": "41396000"
+            },
+            {
+               "name": "Nátaga",
+               "dane": "41483000"
+            },
+            {
+               "name": "Neiva",
+               "dane": "41001000"
+            },
+            {
+               "name": "Oporapa",
+               "dane": "41503000"
+            },
+            {
+               "name": "Paicol",
+               "dane": "41518000"
+            },
+            {
+               "name": "Palermo",
+               "dane": "41524000"
+            },
+            {
+               "name": "Palestina",
+               "dane": "41530000"
+            },
+            {
+               "name": "Pital",
+               "dane": "41548000"
+            },
+            {
+               "name": "Pitalito",
+               "dane": "41551000"
+            },
+            {
+               "name": "Rivera",
+               "dane": "41615000"
+            },
+            {
+               "name": "Saladoblanco",
+               "dane": "41660000"
+            },
+            {
+               "name": "San Agustín",
+               "dane": "41668000"
+            },
+            {
+               "name": "Santa María",
+               "dane": "41676000"
+            },
+            {
+               "name": "Suaza",
+               "dane": "41770000"
+            },
+            {
+               "name": "Tarqui",
+               "dane": "41791000"
+            },
+            {
+               "name": "Tello",
+               "dane": "41799000"
+            },
+            {
+               "name": "Teruel",
+               "dane": "41801000"
+            },
+            {
+               "name": "Tesalia",
+               "dane": "41797000"
+            },
+            {
+               "name": "Timaná",
+               "dane": "41807000"
+            },
+            {
+               "name": "Villavieja",
+               "dane": "41872000"
+            },
+            {
+               "name": "Yaguará",
+               "dane": "41885000"
+            }
+        ]
+    },
+    {
+        "name": "La Guajira",
+        "code": "LAG",
+        "cities": [
+            {
+               "name": "Albania",
+               "dane": "44035000"
+            },
+            {
+               "name": "Barrancas",
+               "dane": "44078000"
+            },
+            {
+               "name": "Dibulla",
+               "dane": "44090000"
+            },
+            {
+               "name": "Distracción",
+               "dane": "44098000"
+            },
+            {
+               "name": "El Molino",
+               "dane": "44110000"
+            },
+            {
+               "name": "Fonseca",
+               "dane": "44279000"
+            },
+            {
+               "name": "Hatonuevo",
+               "dane": "44378000"
+            },
+            {
+               "name": "La Jagua del Pilar",
+               "dane": "44420000"
+            },
+            {
+               "name": "Maicao",
+               "dane": "44430000"
+            },
+            {
+               "name": "Manaure",
+               "dane": "44560000"
+            },
+            {
+               "name": "Riohacha",
+               "dane": "44001000"
+            },
+            {
+               "name": "San Juan del Cesar",
+               "dane": "44650000"
+            },
+            {
+               "name": "Uribia",
+               "dane": "44847000"
+            },
+            {
+               "name": "Urumita",
+               "dane": "44855000"
+            },
+            {
+               "name": "Villanueva",
+               "dane": "44874000"
+            }
+        ]
+    },
+    {
+        "name": "Magdalena",
+        "code": "MAG",
+        "cities": [
+            {
+               "name": "Algarrobo",
+               "dane": "47030000"
+            },
+            {
+               "name": "Aracataca",
+               "dane": "47053000"
+            },
+            {
+               "name": "Ariguaní",
+               "dane": "47058000"
+            },
+            {
+               "name": "Cerro San Antonio",
+               "dane": "47161000"
+            },
+            {
+               "name": "Ciénaga",
+               "dane": "47189000"
+            },
+            {
+               "name": "Concordia",
+               "dane": "47205000"
+            },
+            {
+                "name": "Chibolo",
+                "dane": "47170000"
+            },
+            {
+               "name": "El Banco",
+               "dane": "47245000"
+            },
+            {
+               "name": "El Piñón",
+               "dane": "47258000"
+            },
+            {
+               "name": "El Reten",
+               "dane": "47268000"
+            },
+            {
+               "name": "Fundacion",
+               "dane": "47288000"
+            },
+            {
+               "name": "Guamal",
+               "dane": "47318000"
+            },
+            {
+               "name": "Nueva Granada",
+               "dane": "47460000"
+            },
+            {
+               "name": "Pedraza",
+               "dane": "47541000"
+            },
+            {
+               "name": "Pijiño del Carmen",
+               "dane": "47545000"
+            },
+            {
+               "name": "Pivijay",
+               "dane": "47551000"
+            },
+            {
+               "name": "Plato",
+               "dane": "47555000"
+            },
+            {
+               "name": "Puebloviejo",
+               "dane": "47570000"
+            },
+            {
+               "name": "Remolino",
+               "dane": "47605000"
+            },
+            {
+               "name": "Sabanas de San Ángel",
+               "dane": "47660000"
+            },
+            {
+               "name": "Salamina",
+               "dane": "47675000"
+            },
+            {
+               "name": "San Sebastián de Buenavista",
+               "dane": "47692000"
+            },
+            {
+               "name": "San Zenón",
+               "dane": "47703000"
+            },
+            {
+               "name": "Santa Ana",
+               "dane": "47707000"
+            },
+            {
+               "name": "Santa Bárbara de Pinto",
+               "dane": "47720000"
+            },
+            {
+               "name": "Santa Marta",
+               "dane": "47001000"
+            },
+            {
+               "name": "Sitionuevo",
+               "dane": "47745000"
+            },
+            {
+               "name": "Tenerife",
+               "dane": "47798000"
+            },
+            {
+               "name": "Zapayán",
+               "dane": "47960000"
+            },
+            {
+               "name": "Zona Bananera",
+               "dane": "47980000"
+            }
+        ]
+    },
+    {
+        "name": "Meta",
+        "code": "MET",
+        "cities": [
+            {
+               "name": "Acacías",
+               "dane": "50006000"
+            },
+            {
+               "name": "Barranca de Upía",
+               "dane": "50110000"
+            },
+            {
+               "name": "Cabuyaro",
+               "dane": "50124000"
+            },
+            {
+               "name": "Castilla la Nueva",
+               "dane": "50150000"
+            },
+            {
+               "name": "Cubarral",
+               "dane": "50223000"
+            },
+            {
+               "name": "Cumaral",
+               "dane": "50226000"
+            },
+            {
+               "name": "El Calvario",
+               "dane": "50245000"
+            },
+            {
+               "name": "El Castillo",
+               "dane": "50251000"
+            },
+            {
+               "name": "El Dorado",
+               "dane": "50270000"
+            },
+            {
+               "name": "Fuente de Oro",
+               "dane": "50287000"
+            },
+            {
+               "name": "Granada",
+               "dane": "50313000"
+            },
+            {
+               "name": "Guamal",
+               "dane": "50318000"
+            },
+            {
+               "name": "La Macarena",
+               "dane": "50350000"
+            },
+            {
+               "name": "Uribe",
+               "dane": "50370000"
+            },
+            {
+               "name": "Lejanías",
+               "dane": "50400000"
+            },
+            {
+               "name": "Mapiripán",
+               "dane": "50325000"
+            },
+            {
+               "name": "Mesetas",
+               "dane": "50330000"
+            },
+            {
+               "name": "Puerto Concordia",
+               "dane": "50450000"
+            },
+            {
+               "name": "Puerto Gaitán",
+               "dane": "50568000"
+            },
+            {
+               "name": "Puerto Lleras",
+               "dane": "50577000"
+            },
+            {
+               "name": "Puerto López",
+               "dane": "50573000"
+            },
+            {
+               "name": "Puerto Rico",
+               "dane": "50590000"
+            },
+            {
+               "name": "Restrepo",
+               "dane": "50606000"
+            },
+            {
+               "name": "San Carlos de Guaroa",
+               "dane": "50680000"
+            },
+            {
+               "name": "San Juan de Arama",
+               "dane": "50683000"
+            },
+            {
+               "name": "San Juanito",
+               "dane": "50686000"
+            },
+            {
+               "name": "San Martín de los Llanos",
+               "dane": "50689000"
+            },
+            {
+               "name": "Villavicencio",
+               "dane": "50001000"
+            },
+            {
+               "name": "Vista Hermosa",
+               "dane": "50711000"
+            }
+        ]
+    },
+    {
+        "name": "Nariño",
+        "code": "NAR",
+        "cities": [
+            {
+               "name": "Albán",
+               "dane": "52019000"
+            },
+            {
+               "name": "Aldana",
+               "dane": "52022000"
+            },
+            {
+               "name": "Ancuya",
+               "dane": "52036000"
+            },
+            {
+               "name": "Arboleda",
+               "dane": "52051000"
+            },
+            {
+               "name": "Barbacoas",
+               "dane": "52079000"
+            },
+            {
+               "name": "Belén",
+               "dane": "52083000"
+            },
+            {
+               "name": "Buesaco",
+               "dane": "52110000"
+            },
+            {
+               "name": "Chachagui",
+               "dane": "52240000"
+            },
+            {
+               "name": "Colon",
+               "dane": "52203000"
+            },
+            {
+               "name": "Consacá",
+               "dane": "52207000"
+            },
+            {
+               "name": "Contadero",
+               "dane": "52210000"
+            },
+            {
+               "name": "Córdoba",
+               "dane": "52215000"
+            },
+            {
+               "name": "Cuaspud",
+               "dane": "52224000"
+            },
+            {
+               "name": "Cumbal",
+               "dane": "52227000"
+            },
+            {
+               "name": "Cumbitara",
+               "dane": "52233000"
+            },
+            {
+               "name": "El Charco",
+               "dane": "52250000"
+            },
+            {
+               "name": "El Peñol",
+               "dane": "52254000"
+            },
+            {
+               "name": "El Rosario",
+               "dane": "52256000"
+            },
+            {
+               "name": "El Tablón de Gómez",
+               "dane": "52258000"
+            },
+            {
+               "name": "El Tambo",
+               "dane": "52260000"
+            },
+            {
+               "name": "Funes",
+               "dane": "52287000"
+            },
+            {
+               "name": "Guachucal",
+               "dane": "52317000"
+            },
+            {
+               "name": "Guaitarilla",
+               "dane": "52320000"
+            },
+            {
+               "name": "Gualmatán",
+               "dane": "52323000"
+            },
+            {
+               "name": "Iles",
+               "dane": "52352000"
+            },
+            {
+               "name": "Imués",
+               "dane": "52354000"
+            },
+            {
+               "name": "Ipiales",
+               "dane": "52356000"
+            },
+            {
+               "name": "La Cruz",
+               "dane": "52378000"
+            },
+            {
+               "name": "La Florida",
+               "dane": "52381000"
+            },
+            {
+               "name": "La Llanada",
+               "dane": "52385000"
+            },
+            {
+               "name": "La Tola",
+               "dane": "52390000"
+            },
+            {
+               "name": "La Unión",
+               "dane": "52399000"
+            },
+            {
+               "name": "Leiva",
+               "dane": "52405000"
+            },
+            {
+               "name": "Linares",
+               "dane": "52411000"
+            },
+            {
+               "name": "Los Andes",
+               "dane": "52418000"
+            },
+            {
+               "name": "Magüí Payán",
+               "dane": "52427000"
+            },
+            {
+               "name": "Mallama",
+               "dane": "52435000"
+            },
+            {
+               "name": "Mosquera",
+               "dane": "52473000"
+            },
+            {
+               "name": "Nariño",
+               "dane": "52480000"
+            },
+            {
+               "name": "Olaya Herrera",
+               "dane": "52490000"
+            },
+            {
+               "name": "Ospina",
+               "dane": "52506000"
+            },
+            {
+               "name": "Pasto",
+               "dane": "52001000"
+            },
+            {
+               "name": "Francisco Pizarro",
+               "dane": "52520000"
+            },
+            {
+               "name": "Policarpa",
+               "dane": "52540000"
+            },
+            {
+               "name": "Potosí",
+               "dane": "52560000"
+            },
+            {
+               "name": "Providencia",
+               "dane": "52565000"
+            },
+            {
+               "name": "Puerres",
+               "dane": "52573000"
+            },
+            {
+               "name": "Pupiales",
+               "dane": "52585000"
+            },
+            {
+               "name": "Ricaurte",
+               "dane": "52612000"
+            },
+            {
+               "name": "Roberto Payán",
+               "dane": "52621000"
+            },
+            {
+               "name": "Samaniego",
+               "dane": "52678000"
+            },
+            {
+               "name": "San Bernardo",
+               "dane": "52685000"
+            },
+            {
+               "name": "San Lorenzo",
+               "dane": "52687000"
+            },
+            {
+               "name": "San Pablo",
+               "dane": "52693000"
+            },
+            {
+               "name": "San Pedro de Cartago",
+               "dane": "52694000"
+            },
+            {
+               "name": "Sandoná",
+               "dane": "52683000"
+            },
+            {
+               "name": "Santa Barbara",
+               "dane": "52696000"
+            },
+            {
+               "name": "Santacruz",
+               "dane": "52699000"
+            },
+            {
+               "name": "Sapuyes",
+               "dane": "52720000"
+            },
+            {
+               "name": "Taminango",
+               "dane": "52786000"
+            },
+            {
+               "name": "Tangua",
+               "dane": "52788000"
+            },
+            {
+               "name": "Tumaco",
+               "dane": "52835000"
+            },
+            {
+               "name": "Túquerres",
+               "dane": "52838000"
+            },
+            {
+               "name": "Yacuanquer",
+               "dane": "52885000"
+            }
+        ]
+    },
+    {
+        "name": "Norte de Santander",
+        "code": "NSA",
+        "cities": [
+            {
+               "name": "Abrego",
+               "dane": "54003000"
+            },
+            {
+               "name": "Arboledas",
+               "dane": "54051000"
+            },
+            {
+               "name": "Bochalema",
+               "dane": "54099000"
+            },
+            {
+               "name": "Bucarasica",
+               "dane": "54109000"
+            },
+            {
+               "name": "Cáchira",
+               "dane": "54128000"
+            },
+            {
+               "name": "Cácota",
+               "dane": "54125000"
+            },
+            {
+               "name": "Chinácota",
+               "dane": "54172000"
+            },
+            {
+               "name": "Chitagá",
+               "dane": "54174000"
+            },
+            {
+               "name": "Convención",
+               "dane": "54206000"
+            },
+            {
+               "name": "Cucutilla",
+               "dane": "54223000"
+            },
+            {
+               "name": "Duranía",
+               "dane": "54239000"
+            },
+            {
+               "name": "El Carmen",
+               "dane": "54245000"
+            },
+            {
+               "name": "El Tarra",
+               "dane": "54250000"
+            },
+            {
+               "name": "El Zulia",
+               "dane": "54261000"
+            },
+            {
+               "name": "Gramalote",
+               "dane": "54313000"
+            },
+            {
+               "name": "Hacarí",
+               "dane": "54344000"
+            },
+            {
+               "name": "Herrán",
+               "dane": "54347000"
+            },
+            {
+               "name": "La Esperanza",
+               "dane": "54385000"
+            },
+            {
+               "name": "La Playa De Belén",
+               "dane": "54398000"
+            },
+            {
+               "name": "Labateca",
+               "dane": "54377000"
+            },
+            {
+               "name": "Los Patios",
+               "dane": "54405000"
+            },
+            {
+               "name": "Lourdes",
+               "dane": "54418000"
+            },
+            {
+               "name": "Mutiscua",
+               "dane": "54480000"
+            },
+            {
+               "name": "Ocaña",
+               "dane": "54498000"
+            },
+            {
+               "name": "Pamplona",
+               "dane": "54518000"
+            },
+            {
+               "name": "Pamplonita",
+               "dane": "54520000"
+            },
+            {
+               "name": "Puerto Santander",
+               "dane": "54553000"
+            },
+            {
+               "name": "Ragonvalia",
+               "dane": "54599000"
+            },
+            {
+               "name": "Salazar De Las Palmas",
+               "dane": "54660000"
+            },
+            {
+               "name": "San Calixto",
+               "dane": "54670000"
+            },
+            {
+               "name": "San Cayetano",
+               "dane": "54673000"
+            },
+            {
+               "name": "Cúcuta",
+               "dane": "54001000"
+            },
+            {
+               "name": "Santiago",
+               "dane": "54680000"
+            },
+            {
+               "name": "Santo Domingo De Silos",
+               "dane": "54743000"
+            },
+            {
+               "name": "Sardinata",
+               "dane": "54720000"
+            },
+            {
+               "name": "Teorama",
+               "dane": "54800000"
+            },
+            {
+               "name": "Tibú",
+               "dane": "54810000"
+            },
+            {
+               "name": "Toledo",
+               "dane": "54820000"
+            },
+            {
+               "name": "Villa Caro",
+               "dane": "54871000"
+            },
+            {
+               "name": "Villa del Rosario",
+               "dane": "54874000"
+            }
+        ]
+    },
+    {
+        "name": "Putumayo",
+        "code": "PUT",
+        "cities": [
+            {
+               "name": "Colón",
+               "dane": "86219000"
+            },
+            {
+               "name": "Mocoa",
+               "dane": "86001000"
+            },
+            {
+               "name": "Orito",
+               "dane": "86320000"
+            },
+            {
+               "name": "Puerto Asís",
+               "dane": "86568000"
+            },
+            {
+               "name": "Puerto Caicedo",
+               "dane": "86569000"
+            },
+            {
+               "name": "Puerto Guzmán",
+               "dane": "86571000"
+            },
+            {
+               "name": "Puerto Leguízamo",
+               "dane": "86573000"
+            },
+            {
+               "name": "San Francisco",
+               "dane": "86755000"
+            },
+            {
+               "name": "San Miguel",
+               "dane": "86757000"
+            },
+            {
+               "name": "Santiago",
+               "dane": "86760000"
+            },
+            {
+               "name": "Sibundoy",
+               "dane": "86749000"
+            },
+            {
+               "name": "Valle del Guamuez",
+               "dane": "86865000"
+            },
+            {
+               "name": "Villagarzón",
+               "dane": "86885000"
+            }
+        ]
+    },
+    {
+        "name": "Quindío",
+        "code": "QUI",
+        "cities": [
+            {
+               "name": "Armenia",
+               "dane": "63001000"
+            },
+            {
+               "name": "Buenavista",
+               "dane": "63111000"
+            },
+            {
+               "name": "Calarcá",
+               "dane": "63130000"
+            },
+            {
+               "name": "Circasia",
+               "dane": "63190000"
+            },
+            {
+               "name": "Córdoba",
+               "dane": "63212000"
+            },
+            {
+               "name": "Filandia",
+               "dane": "63272000"
+            },
+            {
+               "name": "Génova",
+               "dane": "63302000"
+            },
+            {
+               "name": "La Tebaida",
+               "dane": "63401000"
+            },
+            {
+               "name": "Montenegro",
+               "dane": "63470000"
+            },
+            {
+               "name": "Pijao",
+               "dane": "63548000"
+            },
+            {
+               "name": "Quimbaya",
+               "dane": "63594000"
+            },
+            {
+               "name": "Salento",
+               "dane": "63690000"
+            }
+        ]
+    },
+    {
+        "name": "Risaralda",
+        "code": "RIS",
+        "cities": [
+            {
+               "name": "Apía",
+               "dane": "66045000"
+            },
+            {
+               "name": "Balboa",
+               "dane": "66075000"
+            },
+            {
+               "name": "Belén de Umbría",
+               "dane": "66088000"
+            },
+            {
+               "name": "Dosquebradas",
+               "dane": "66170000"
+            },
+            {
+               "name": "Guática",
+               "dane": "66318000"
+            },
+            {
+               "name": "La Celia",
+               "dane": "66383000"
+            },
+            {
+               "name": "La Virginia",
+               "dane": "66400000"
+            },
+            {
+               "name": "Marsella",
+               "dane": "66440000"
+            },
+            {
+               "name": "Mistrató",
+               "dane": "66456000"
+            },
+            {
+               "name": "Pereira",
+               "dane": "66001000"
+            },
+            {
+               "name": "Pueblo Rico",
+               "dane": "66572000"
+            },
+            {
+               "name": "Quinchía",
+               "dane": "66594000"
+            },
+            {
+               "name": "Santa Rosa de Cabal",
+               "dane": "66682000"
+            },
+            {
+               "name": "Santuario",
+               "dane": "66687000"
+            }
+        ]
+    },
+    {
+        "name": "San Andrés y Providencia",
+        "code": "SAP",
+        "cities": [
+            {
+               "name": "Providencia",
+               "dane": "88564000"
+            },
+            {
+               "name": "Isla de San Andrés",
+               "dane": "88001000"
+            }
+        ]
+    },
+    {
+        "name": "Santander",
+        "code": "SAN",
+        "cities": [
+            {
+               "name": "Aguada",
+               "dane": "68013000"
+            },
+            {
+               "name": "Albania",
+               "dane": "68020000"
+            },
+            {
+               "name": "Aratoca",
+               "dane": "68051000"
+            },
+            {
+               "name": "Barbosa",
+               "dane": "68077000"
+            },
+            {
+               "name": "Barichara",
+               "dane": "68079000"
+            },
+            {
+               "name": "Barrancabermeja",
+               "dane": "68081000"
+            },
+            {
+               "name": "Betulia",
+               "dane": "68092000"
+            },
+            {
+               "name": "Bolívar",
+               "dane": "68101000"
+            },
+            {
+               "name": "Bucaramanga",
+               "dane": "68001000"
+            },
+            {
+               "name": "Cabrera",
+               "dane": "68121000"
+            },
+            {
+               "name": "California",
+               "dane": "68132000"
+            },
+            {
+               "name": "Capitanejo",
+               "dane": "68147000"
+            },
+            {
+               "name": "Carcasi",
+               "dane": "68152000"
+            },
+            {
+               "name": "Cepitá",
+               "dane": "68160000"
+            },
+            {
+               "name": "El Cerrito",
+               "dane": "68162000"
+            },
+            {
+               "name": "Charalá",
+               "dane": "68167000"
+            },
+            {
+               "name": "Charta",
+               "dane": "68169000"
+            },
+            {
+               "name": "Chima",
+               "dane": "68176000"
+            },
+            {
+               "name": "Chipatá",
+               "dane": "68179000"
+            },
+            {
+               "name": "Cimitarra",
+               "dane": "68190000"
+            },
+            {
+               "name": "Concepción",
+               "dane": "68207000"
+            },
+            {
+               "name": "Confines",
+               "dane": "68209000"
+            },
+            {
+               "name": "Contratación",
+               "dane": "68211000"
+            },
+            {
+               "name": "Coromoro",
+               "dane": "68217000"
+            },
+            {
+               "name": "Curití",
+               "dane": "68229000"
+            },
+            {
+               "name": "El Carmen de Chucurí",
+               "dane": "68235000"
+            },
+            {
+               "name": "El Guacamayo",
+               "dane": "68245000"
+            },
+            {
+               "name": "El Peñón",
+               "dane": "68250000"
+            },
+            {
+               "name": "El Playón",
+               "dane": "68255000"
+            },
+            {
+               "name": "Encino",
+               "dane": "68264000"
+            },
+            {
+               "name": "Enciso",
+               "dane": "68266000"
+            },
+            {
+               "name": "Florian",
+               "dane": "68271000"
+            },
+            {
+               "name": "Floridablanca",
+               "dane": "68276000"
+            },
+            {
+               "name": "Galán",
+               "dane": "68296000"
+            },
+            {
+               "name": "Gámbita",
+               "dane": "68298000"
+            },
+            {
+               "name": "Girón",
+               "dane": "68307000"
+            },
+            {
+               "name": "Guaca",
+               "dane": "68318000"
+            },
+            {
+               "name": "Guadalupe",
+               "dane": "68320000"
+            },
+            {
+               "name": "Guapota",
+               "dane": "68322000"
+            },
+            {
+               "name": "Guavatá",
+               "dane": "68324000"
+            },
+            {
+               "name": "Güepsa",
+               "dane": "68327000"
+            },
+            {
+               "name": "Hato",
+               "dane": "68344000"
+            },
+            {
+               "name": "Jesús María",
+               "dane": "68368000"
+            },
+            {
+               "name": "Jordán",
+               "dane": "68370000"
+            },
+            {
+               "name": "La Belleza",
+               "dane": "68377000"
+            },
+            {
+               "name": "La Paz",
+               "dane": "68397000"
+            },
+            {
+               "name": "Landázuri",
+               "dane": "68385000"
+            },
+            {
+               "name": "Lebrija",
+               "dane": "68406000"
+            },
+            {
+               "name": "Los Santos",
+               "dane": "68418000"
+            },
+            {
+               "name": "Macaravita",
+               "dane": "68425000"
+            },
+            {
+               "name": "Málaga",
+               "dane": "68432000"
+            },
+            {
+               "name": "Matanza",
+               "dane": "68444000"
+            },
+            {
+               "name": "Mogotes",
+               "dane": "68464000"
+            },
+            {
+               "name": "Molagavita",
+               "dane": "68468000"
+            },
+            {
+               "name": "Ocamonte",
+               "dane": "68498000"
+            },
+            {
+               "name": "Oiba",
+               "dane": "68500000"
+            },
+            {
+               "name": "Onzaga",
+               "dane": "68502000"
+            },
+            {
+               "name": "Palmar",
+               "dane": "68522000"
+            },
+            {
+               "name": "Palmas del Socorro",
+               "dane": "68524000"
+            },
+            {
+               "name": "Páramo",
+               "dane": "68533000"
+            },
+            {
+               "name": "Piedecuesta",
+               "dane": "68547000"
+            },
+            {
+               "name": "Pinchote",
+               "dane": "68549000"
+            },
+            {
+               "name": "Puente Nacional",
+               "dane": "68572000"
+            },
+            {
+               "name": "Puerto Parra",
+               "dane": "68573000"
+            },
+            {
+               "name": "Puerto Wilches",
+               "dane": "68575000"
+            },
+            {
+               "name": "Rionegro",
+               "dane": "68615000"
+            },
+            {
+               "name": "Sabana de Torres",
+               "dane": "68655000"
+            },
+            {
+               "name": "San Andrés",
+               "dane": "68669000"
+            },
+            {
+               "name": "San Benito",
+               "dane": "68673000"
+            },
+            {
+               "name": "San Gil",
+               "dane": "68679000"
+            },
+            {
+               "name": "San Joaquín",
+               "dane": "68682000"
+            },
+            {
+               "name": "San José de Miranda",
+               "dane": "68684000"
+            },
+            {
+               "name": "San Miguel",
+               "dane": "68686000"
+            },
+            {
+               "name": "San Vicente de Chucurí",
+               "dane": "68689000"
+            },
+            {
+               "name": "Santa Bárbara",
+               "dane": "68705000"
+            },
+            {
+               "name": "Santa Helena del Opón",
+               "dane": "68720000"
+            },
+            {
+               "name": "Simacota",
+               "dane": "68745000"
+            },
+            {
+               "name": "Socorro",
+               "dane": "68755000"
+            },
+            {
+               "name": "Suaita",
+               "dane": "68770000"
+            },
+            {
+               "name": "Sucre",
+               "dane": "68773000"
+            },
+            {
+               "name": "Suratá",
+               "dane": "68780000"
+            },
+            {
+               "name": "Tona",
+               "dane": "68820000"
+            },
+            {
+               "name": "Valle de San José",
+               "dane": "68855000"
+            },
+            {
+               "name": "Vélez",
+               "dane": "68861000"
+            },
+            {
+               "name": "Vetas",
+               "dane": "68867000"
+            },
+            {
+               "name": "Villanueva",
+               "dane": "68872000"
+            },
+            {
+               "name": "Zapatoca",
+               "dane": "68895000"
+            }
+        ]
+    },
+    {
+        "name": "Sucre",
+        "code": "SUC",
+        "cities": [
+            {
+               "name": "Buenavista",
+               "dane": "70110000"
+            },
+            {
+               "name": "Caimito",
+               "dane": "70124000"
+            },
+            {
+               "name": "Chalán",
+               "dane": "70230000"
+            },
+            {
+               "name": "Colosó",
+               "dane": "70204000"
+            },
+            {
+               "name": "Corozal",
+               "dane": "70215000"
+            },
+            {
+                "name": "Coveñas",
+                "dane": "70221000"
+            },
+            {
+               "name": "El Roble",
+               "dane": "70233000"
+            },
+            {
+               "name": "Galeras",
+               "dane": "70235000"
+            },
+            {
+               "name": "Guaranda",
+               "dane": "70265000"
+            },
+            {
+               "name": "La Unión",
+               "dane": "70400000"
+            },
+            {
+               "name": "Los Palmitos",
+               "dane": "70418000"
+            },
+            {
+               "name": "Majagual",
+               "dane": "70429000"
+            },
+            {
+               "name": "Morroa",
+               "dane": "70473000"
+            },
+            {
+               "name": "Ovejas",
+               "dane": "70508000"
+            },
+            {
+               "name": "Palmito",
+               "dane": "70523000"
+            },
+            {
+               "name": "Sampués",
+               "dane": "70670000"
+            },
+            {
+               "name": "San Benito Abad",
+               "dane": "70678000"
+            },
+            {
+               "name": "San Juan de Betulia",
+               "dane": "70702000"
+            },
+            {
+               "name": "San Marcos",
+               "dane": "70708000"
+            },
+            {
+               "name": "San Onofre",
+               "dane": "70713000"
+            },
+            {
+               "name": "San Pedro",
+               "dane": "70717000"
+            },
+            {
+               "name": "San Luis de Sincé",
+               "dane": "70742000"
+            },
+            {
+               "name": "Sincelejo",
+               "dane": "70001000"
+            },
+            {
+               "name": "Sucre",
+               "dane": "70771000"
+            },
+            {
+               "name": "Santiago de Tolú",
+               "dane": "70820000"
+            },
+            {
+               "name": "Tolú Viejo",
+               "dane": "70823000"
+            }
+        ]
+    },
+    {
+        "name": "Tolima",
+        "code": "TOL",
+        "cities": [
+            {
+               "name": "Alpujarra",
+               "dane": "73024000"
+            },
+            {
+               "name": "Alvarado",
+               "dane": "73026000"
+            },
+            {
+               "name": "Ambalema",
+               "dane": "73030000"
+            },
+            {
+               "name": "Anzoátegui",
+               "dane": "73043000"
+            },
+            {
+               "name": "Ataco",
+               "dane": "73067000"
+            },
+            {
+               "name": "Cajamarca",
+               "dane": "73124000"
+            },
+            {
+               "name": "Carmen de Apicala",
+               "dane": "73148000"
+            },
+            {
+               "name": "Casabianca",
+               "dane": "73152000"
+            },
+            {
+               "name": "Chaparral",
+               "dane": "73168000"
+            },
+            {
+               "name": "Coello",
+               "dane": "73200000"
+            },
+            {
+               "name": "Coyaima",
+               "dane": "73217000"
+            },
+            {
+               "name": "Cunday",
+               "dane": "73226000"
+            },
+            {
+               "name": "Dolores",
+               "dane": "73236000"
+            },
+            {
+               "name": "Espinal",
+               "dane": "73268000"
+            },
+            {
+               "name": "Falan",
+               "dane": "73270000"
+            },
+            {
+               "name": "Flandes",
+               "dane": "73275000"
+            },
+            {
+               "name": "Fresno",
+               "dane": "73283000"
+            },
+            {
+               "name": "Guamo",
+               "dane": "73319000"
+            },
+            {
+               "name": "Armero",
+               "dane": "73055000"
+            },
+            {
+               "name": "Herveo",
+               "dane": "73347000"
+            },
+            {
+               "name": "Honda",
+               "dane": "73349000"
+            },
+            {
+               "name": "Ibagué",
+               "dane": "73001000"
+            },
+            {
+               "name": "Icononzo",
+               "dane": "73352000"
+            },
+            {
+               "name": "Lérida",
+               "dane": "73408000"
+            },
+            {
+               "name": "Líbano",
+               "dane": "73411000"
+            },
+            {
+               "name": "Mariquita",
+               "dane": "73443000"
+            },
+            {
+               "name": "Melgar",
+               "dane": "73449000"
+            },
+            {
+               "name": "Murillo",
+               "dane": "73461000"
+            },
+            {
+               "name": "Natagaima",
+               "dane": "73483000"
+            },
+            {
+               "name": "Ortega",
+               "dane": "73504000"
+            },
+            {
+               "name": "Palocabildo",
+               "dane": "73520000"
+            },
+            {
+               "name": "Piedras",
+               "dane": "73547000"
+            },
+            {
+               "name": "Planadas",
+               "dane": "73555000"
+            },
+            {
+               "name": "Prado",
+               "dane": "73563000"
+            },
+            {
+               "name": "Purificación",
+               "dane": "73585000"
+            },
+            {
+               "name": "Rioblanco",
+               "dane": "73616000"
+            },
+            {
+               "name": "Roncesvalles",
+               "dane": "73622000"
+            },
+            {
+               "name": "Rovira",
+               "dane": "73624000"
+            },
+            {
+               "name": "Saldaña",
+               "dane": "73671000"
+            },
+            {
+               "name": "San Antonio",
+               "dane": "73675000"
+            },
+            {
+               "name": "San Luis",
+               "dane": "73678000"
+            },
+            {
+               "name": "Santa Isabel",
+               "dane": "73686000"
+            },
+            {
+               "name": "Suárez",
+               "dane": "73770000"
+            },
+            {
+               "name": "Valle de San Juan",
+               "dane": "73854000"
+            },
+            {
+               "name": "Venadillo",
+               "dane": "73861000"
+            },
+            {
+               "name": "Villahermosa",
+               "dane": "73870000"
+            },
+            {
+               "name": "Villarrica",
+               "dane": "73873000"
+            }
+        ]
+    },
+    {
+        "name": "Valle del Cauca",
+        "code": "VAC",
+        "cities": [
+            {
+               "name": "Alcalá",
+               "dane": "76020000"
+            },
+            {
+               "name": "Andalucía",
+               "dane": "76036000"
+            },
+            {
+               "name": "Ansermanuevo",
+               "dane": "76041000"
+            },
+            {
+               "name": "Argelia",
+               "dane": "76054000"
+            },
+            {
+               "name": "Bolivar",
+               "dane": "76100000"
+            },
+            {
+               "name": "Buenaventura",
+               "dane": "76109000"
+            },
+            {
+               "name": "Guadalajara de Buga",
+               "dane": "76111000"
+            },
+            {
+               "name": "Bugalagrande",
+               "dane": "76113000"
+            },
+            {
+               "name": "Caicedonia",
+               "dane": "76122000"
+            },
+            {
+               "name": "Cali",
+               "dane": "76001000"
+            },
+            {
+               "name": "Calima - El Darien",
+               "dane": "76126000"
+            },
+            {
+               "name": "Candelaria",
+               "dane": "76130000"
+            },
+            {
+               "name": "Cartago",
+               "dane": "76147000"
+            },
+            {
+               "name": "Dagua",
+               "dane": "76233000"
+            },
+            {
+               "name": "El Águila",
+               "dane": "76243000"
+            },
+            {
+               "name": "El Cairo",
+               "dane": "76246000"
+            },
+            {
+               "name": "El Cerrito",
+               "dane": "76248000"
+            },
+            {
+               "name": "El Dovio",
+               "dane": "76250000"
+            },
+            {
+               "name": "Florida",
+               "dane": "76275000"
+            },
+            {
+               "name": "Ginebra",
+               "dane": "76306000"
+            },
+            {
+               "name": "Guacarí",
+               "dane": "76318000"
+            },
+            {
+               "name": "Jamundí",
+               "dane": "76364000"
+            },
+            {
+               "name": "La Cumbre",
+               "dane": "76377000"
+            },
+            {
+               "name": "La Unión",
+               "dane": "76400000"
+            },
+            {
+               "name": "La Victoria",
+               "dane": "76403000"
+            },
+            {
+               "name": "Obando",
+               "dane": "76497000"
+            },
+            {
+               "name": "Palmira",
+               "dane": "76520000"
+            },
+            {
+               "name": "Pradera",
+               "dane": "76563000"
+            },
+            {
+               "name": "Restrepo",
+               "dane": "76606000"
+            },
+            {
+               "name": "Riofrio",
+               "dane": "76616000"
+            },
+            {
+               "name": "Roldanillo",
+               "dane": "76622000"
+            },
+            {
+               "name": "San Pedro",
+               "dane": "76109037"
+            },
+            {
+               "name": "Sevilla",
+               "dane": "76736000"
+            },
+            {
+               "name": "Toro",
+               "dane": "76823000"
+            },
+            {
+               "name": "Trujillo",
+               "dane": "76828000"
+            },
+            {
+               "name": "Tuluá",
+               "dane": "76834000"
+            },
+            {
+               "name": "Ulloa",
+               "dane": "76845000"
+            },
+            {
+               "name": "Versalles",
+               "dane": "76863000"
+            },
+            {
+               "name": "Vijes",
+               "dane": "76869000"
+            },
+            {
+               "name": "Yotoco",
+               "dane": "76890000"
+            },
+            {
+               "name": "Yumbo",
+               "dane": "76892000"
+            },
+            {
+               "name": "Zarzal",
+               "dane": "76895000"
+            }
+        ]
+    },
+    {
+        "name": "Vaupés",
+        "code": "VAU",
+        "cities": [
+            {
+                "name": "Carurú",
+                "dane": "97161000"
+            },
+            {
+               "name": "Mitú",
+               "dane": "97001000"
+            },
+            {
+               "name": "Papunaua",
+               "dane": "97777000"
+            },
+            {
+               "name": "Taraira",
+               "dane": "97666000"
+            },
+            {
+               "name": "Yavarate",
+               "dane": "97889000"
+            }
+        ]
+    },
+    {
+        "name": "Vichada",
+        "code": "VID",
+        "cities": [
+            {
+               "name": "Cumaribo",
+               "dane": "99773000"
+            },
+            {
+               "name": "La Primavera",
+               "dane": "99524000"
+            },
+            {
+               "name": "Puerto Carreño",
+               "dane": "99001000"
+            },
+            {
+               "name": "Santa Rosalia",
+               "dane": "99624000"
+            }
+        ]
+    },
+    {
+        "name": "Bogotá",
+        "code": "DC",
+        "cities": [
+            {
+                "name": "Bogotá D.C.",
+                "dane": "11001000"
+            }
+        ]
+    }    
+]
